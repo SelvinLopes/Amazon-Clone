@@ -1,0 +1,103 @@
+.logo-sign{
+    height: 55px;
+    width: 140px;
+    background-image: url("./amazon-many.jpg");
+    background-size: cover;
+    margin-top: 10px;
+    margin-left: 45%;
+}
+/*actual signin*/
+.actual-signin{
+    height: 343px;
+    width: 348px;
+    margin-left: 83vh;
+    border: 0.3px solid rgb(181, 177, 177);
+    border-radius: 8px;
+}
+.signin-container{
+    margin: 25px;
+}
+.signin-p2{
+    font-size: 14px;
+}
+.signin-p1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signin-text{
+    height: 31px;
+    width: 295px;
+    border-radius: 4px;
+    border: 0.3px solid rgb(63, 62, 62);
+}
+.signin-btn{
+    height:30px ;
+    width: 300px;
+    border-radius: 15px;
+    margin-top: 14px;
+    background-color: rgb(255, 208, 0);
+    border: none;
+}
+.signin-cond{
+    font-size: 13px;
+}
+.signin-cond span{
+    color: #007185;
+    text-decoration: underline;
+}
+.signin-help{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #007185;
+    font-size: 14px;
+}
+.signin-buy{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-bottom: none;
+}
+.signin-buy2{
+    margin-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #007185;
+}
+
+/*signin-last*/
+.foot-panel4{
+    height: 80px;
+    color: rgb(77, 74, 74);
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    
+}
+.pages{
+    padding-top : 21px;
+}
+.copyright{
+    padding-top: 10px;
+
+}
+.pages a{
+    margin-left: 9px;
+    margin-right: 9px;
+    color: #007185;
+    justify-content: space-evenly;
+}
+.hr-only{
+    margin-top: 12px;
+}
+.new-sigin{
+    display: flex;
+    justify-content: center;
+}
+.new-sigin-inner{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(77, 74, 74);
+    text-decoration: none;
+}
+.new-sigin a{
+    color:rgb(77, 74, 74); 
+    text-decoration: none;
+}
